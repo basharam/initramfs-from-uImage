@@ -1,0 +1,2 @@
+initramfs-from-uImage
+=====================
